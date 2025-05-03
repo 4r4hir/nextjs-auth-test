@@ -10,7 +10,7 @@
 
 ## 技術スタック
 
-- Next.js 14
+- Next.js 15
 - Supabase（認証バックエンド）
 - TypeScript
 - Tailwind CSS
